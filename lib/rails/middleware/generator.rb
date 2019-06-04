@@ -1,4 +1,6 @@
-require "rails/middleware/generator/railtie"
+# frozen_string_literal: true
+
+require 'rails/middleware/generator/railtie'
 
 module Rails
   module Middleware
